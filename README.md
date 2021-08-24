@@ -14,7 +14,13 @@ Api Rest criada com Node Js e loopback.io (IBM)
 npm i
 
 ########### Run
+
 npm start
+
+
+
+
+
 
 Será criado um serviço ouvindo a porta 3000
 http://localhost:3000/explorer/#/
